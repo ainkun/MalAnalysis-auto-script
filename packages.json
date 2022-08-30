@@ -1,0 +1,125 @@
+{
+
+	"x64dbg" : {
+		"LINK" : "https://github.com/x64dbg/x64dbg/releases/download/snapshot/snapshot_2022-08-20_00-05.zip",
+		"VERSION" : "Date : 2022-08-20"
+	},
+
+	"ghidra" : {
+		"LINK" : "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_10.1.5_build/ghidra_10.1.5_PUBLIC_20220726.zip",
+		"VERSION" : "releas : 10.1.5 Public"
+	},
+
+	"dnspyx64" : {
+		"LINK" : "https://github.com/VNGhostMans/dnSpyEx/releases/download/v6.2.0/dnSpy-v6.2.0-64bit.zip",
+		"VERSION" : "dnSpyEx v6.2.0"
+	},
+
+	"python3" : {
+		"LINK" : "https://www.python.org/ftp/python/3.10.6/Python-3.10.6.tar.xz",
+		"VERSION" : "python 3.10.6"},
+
+	"apx64" : {
+		"LINK" : "https://github.com/zaproxy/zaproxy/releases/download/v2.11.1/ZAP_2_11_1_windows.exe",
+		"VERSION" : "zap 2.11.1"
+	},
+
+	"imhex" : {
+		"LINK" : "https://github.com/WerWolv/ImHex/releases/download/v1.21.2/imhex-1.21.2-win64.msi",
+		"VERSION" : "imhex v1.21.2"
+	},
+
+	"pstudio" : {
+		"LINK" : "https://www.winitor.com/tools/pestudio/current/pestudio.zip",
+		"VERSION" : "release 9.40"
+	},
+
+	"dr" : {
+		"LINK" : "https://github.com/crypto2011/IDR/releases/download/27_01_2019/Idr.exe",
+		"VERSION" : "27_01_2019 delphi decompiler for avs"
+	},
+
+	"pebear" : {
+		"LINK" : "https://github.com/hasherezade/pe-bear-releases/releases/download/0.5.5.5/PE-bear_0.5.5.5_x64_win_vs17.zip",
+		"VERSION" : "release 0.5.5.5 "
+	},
+
+	"pesieve" : {
+		"LINK" : "https://github.com/hasherezade/pe-sieve/releases/download/v0.3.4/pe-sieve64.zip",
+		"VERSION" : "release 0.3.4 "
+	},
+
+	"detect_it_easy" : {
+		"LINK" : "https://github.com/horsicq/DIE-engine/releases/download/3.06/die_win64_portable_3.06.zip",
+		"VERSION" : "3.06"
+	},
+
+	"tor" : {
+		"LINK" : "https://www.torproject.org/dist/torbrowser/11.5.1/torbrowser-install-win64-11.5.1_en-US.exe",
+		"VERSION" : "release 11.5.1"
+	},
+
+	"cutter" : {
+		"LINK" : "https://github.com/rizinorg/cutter/releases/download/v2.1.0/cutter-v2.1.0-Windows-x86_64.zip",
+		"VERSION" : "release 2.1.0 "
+	},
+
+	"vb_decompiler" : {
+		"LINK" : "https://www.vb-decompiler.org/files/vb_decompiler_lite.zip",
+		"VERSION" : "release 11.8"
+	},
+
+	"resource_hacker" : {
+		"LINK" : "http://www.angusj.com/resourcehacker/reshacker_setup.exe",
+		"VERSION" : "release  5.1.8"
+	},
+
+	"defender_ontrol" : {
+		"LINK" : "https://www.sordum.org/files/download/d-control/dControl.zip",
+		"VERSION" : "release  2.1"
+	},
+
+	"scdbg" : {
+		"LINK" : "https://github.com/dzzie/VS_LIBEMU/releases/download/current/scdbg.exe",
+		"VERSION" : "12.20.21 "
+	},
+
+	"sysinterl_tools" : {
+		"LINK" : "https://download.sysinternals.com/files/SysinternalsSuite.zip",
+		"VERSION" : "date : August 16, 2022"
+	},
+
+	"auz_file_detector" : {
+		"LINK" : "https://github.com/horsicq/Nauz-File-Detector/releases/download/0.08/nfd_win64_portable_0.08.zip",
+		"VERSION" : "0.08"
+	},
+
+	"pdf_stream_dumper" : {
+		"LINK" : "http://sandsprite.com/CodeStuff/PDFStreamDumper_Setup.exe",
+		"VERSION" : "Version: 0.9.624"},
+
+	"wireshark" : {
+		"LINK" : "https://1.as.dl.wireshark.org/win64/Wireshark-win64-3.6.7.exe",
+		"VERSION" : "version 3.6.7"
+	},
+
+	"al_unpack" : {
+		"LINK" : "https://github.com/hasherezade/mal_unpack/releases/download/0.9.5/mal_unpack64.zip",
+		"VERSION" : "version 0.9.5"
+	},
+
+	"msi_editor" : {
+		"LINK" : "https://www.technipages.com/downloads/OrcaMSI.zip",
+		"VERSION" : "NULL"},
+
+	"zip7_install" : {
+		"LINK" : "https://www.7-zip.org/a/7z2201-x64.exe",
+		"VERSION" : "2022-07-15"
+	},
+
+	"dependency_walker" : {
+		"LINK" : "https://www.dependencywalker.com/depends22_x64.zip",
+		"VERSION" : "version 2.2"
+	}
+
+}
